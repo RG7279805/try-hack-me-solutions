@@ -8,3 +8,7 @@ according to official PHP [docs](https://www.php.net/manual/en/reserved.variable
 ```
 python3 challenge.py
 ```
+
+#Remote Code execution
+1. run a local server with `python -m http.server`
+2. enter url for RCE.php in input
